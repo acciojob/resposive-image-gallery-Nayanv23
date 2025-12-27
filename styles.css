@@ -1,8 +1,3 @@
-body {
-    margin: 0;
-    padding: 20px;
-}
-
 main.cards {
     display: flex;
     flex-wrap: wrap;
@@ -15,7 +10,4 @@ main.cards img {
     border: 3px solid #000;
     box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3);
     height: auto;
-    width: auto;
-    display: block;
-    flex-shrink: 0;
 }
